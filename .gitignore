@@ -1,0 +1,10 @@
+﻿gambar_mentah/
+hasil_label/
+output/
+demo/*.mp4
+__pycache__/
+venv/
+.venv/
+*.pyc
+.env
+.ipynb_checkpoints/
