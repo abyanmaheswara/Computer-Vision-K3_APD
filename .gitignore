@@ -1,4 +1,4 @@
-﻿gambar_mentah/
+gambar_mentah/
 hasil_label/
 output/
 demo/*.mp4
@@ -8,3 +8,9 @@ venv/
 *.pyc
 .env
 .ipynb_checkpoints/
+# Model weights (large files)
+*.pt
+*.onnx
+# Datasets & runs
+k3-detection-*/
+runs/
